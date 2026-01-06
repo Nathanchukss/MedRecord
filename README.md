@@ -95,7 +95,3 @@ The app will be available at `http://localhost:5173`
 
 ## Sample Accounts
 
-
-## License
-
-Private - All rights reserved
