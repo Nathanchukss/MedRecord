@@ -95,3 +95,11 @@ The app will be available at `http://localhost:5173`
 
 ## Sample Accounts
 
+
+## 📄 License
+
+MIT License - feel free to use and modify for your own projects.
+
+---
+
+**Built with Lovable by Nathan Nwaokocha**
